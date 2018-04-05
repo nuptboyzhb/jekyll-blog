@@ -16,11 +16,13 @@
 title: Github Blog
 email: mochuan.zhb@alibaba-inc.com
 description: > # this means to ignore newlines until "baseurl:"
-  @Blog https://github.com/nuptboyzhb<br>
+  @Blog https://github.com/nuptboyzhb        
 
-  @Author: Zheng Haibo(莫川)<br>             
 
-  @Company: Alibaba Group <br>
+  @Author: Zheng Haibo(莫川)             
+
+
+  @Company: Alibaba Group        
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
