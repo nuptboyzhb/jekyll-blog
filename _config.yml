@@ -19,10 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   @Blog https://github.com/nuptboyzhb        
 
 
-  @Author: Zheng Haibo(莫川)             
-
-
-  @Company: Alibaba Group        
+  @Author: Zheng Haibo(莫川)    
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
