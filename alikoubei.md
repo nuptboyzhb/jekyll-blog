@@ -8,7 +8,7 @@
 
 > 口碑将于2018年4月22日周日14:00-16:00，在南京进行专场技术分享，并举行专场招聘会，欢迎业界各位技术大拿参加。以下是报名贴，请扫描二维码进行报名。
 
->如您有意向加入我们一起共建阿里线下新零售，非常期待您参加专场招聘，帖子里附有JD说明，简历请发送至wushi@alibaba-inc.com ，也可以直接[通过阿里招聘官网渠道投递](https://job.alibaba.com/zhaopin/position_detail.htm?positionId=50274 "Title") 
+>如您有意向加入我们一起共建阿里线下新零售，非常期待您参加专场招聘，帖子里附有JD说明，简历请发送至***wushi@alibaba-inc.com*** ，也可以直接[通过阿里招聘官网渠道投递](https://job.alibaba.com/zhaopin/position_detail.htm?positionId=50274 "Title") 
 
 <img src="alikoubei.png" width = "400">
 
@@ -28,7 +28,7 @@
 * 6.有带团队经验优先。
 
 
-###【口碑-测试专家】
+### 【口碑-测试专家】
 
 #### 岗位描述：
 
